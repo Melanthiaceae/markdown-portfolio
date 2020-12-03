@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/Melanthiaceae)
+[Twitter](https://twitter.com/melanthiaceae)
+[LinkedIn](https://linkedin.com/phil-whitehead)
