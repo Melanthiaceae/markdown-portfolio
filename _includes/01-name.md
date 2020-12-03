@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+#Phil Whitehead
+#Giant Header
+##Big Header
+###Medium Header
+####Small Header
+#####Tiny Header
+######Itsy-bitsy teenie-weenie header
